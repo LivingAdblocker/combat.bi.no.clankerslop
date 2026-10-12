@@ -1,0 +1,7 @@
+name "combat.bi.no.clankerslop"
+about "Plugin for the combat.ai plugin (fractal plugins?!) that replaces the AI images with less gaudy (and real) images that better fit the style of outfits."
+authors
+	"Living_Adblocker"
+dependencies
+	requires 
+		combat.ai

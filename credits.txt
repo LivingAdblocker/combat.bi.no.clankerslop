@@ -1,0 +1,3 @@
+combat.ai
+author:
+	Living_Adblocker
